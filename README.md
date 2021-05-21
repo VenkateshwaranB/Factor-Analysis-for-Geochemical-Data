@@ -20,4 +20,4 @@ For the Trace Elements
 > C = W / 1,000,000
 
 ## Input The Data
-Inout the Normalized data in the `X` values. The data looks like our `Orissa geochem data.xlsx` 
+Inout the Normalized data in the `X` values. The data looks like our `Orissa geochem data acc(1).xlsx` 
