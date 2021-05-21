@@ -1,5 +1,5 @@
 %Factor Analysis
-
+% By Venkateshwaran B
 %load the data
 %X = csvread("orissa org.csv", 1); %if the heading present
 X = xlsread("Gm data (1).xlsx", 1); %if the heading is present
