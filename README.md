@@ -2,7 +2,7 @@
 Mainly focusing on the dominating factors through the entire region and deposits with their Geochemical data, which determined by the factor analysis.
 ## Data Normalization
 The most important think for before the analysis, it's called data normalization which encompass the data having equal proportion entirely.
-where the data would be the Major elements and Trace elements and there should varying in values. That means the major elements having a 
+where the data would be the Major elements and Trace elements, there would present varying in their values. That means the major elements having a 
 Weight percentage `%`  and the trace elements having a `ppm` values. 
 
 example :
@@ -20,4 +20,8 @@ For the Trace Elements
 > C = W / 1,000,000
 
 ## Input The Data
-Inout the Normalized data in the `X` values. The data looks like our `Orissa geochem data acc(1).xlsx` 
+Input the Normalized data in the `X` values. The data looks like our `Orissa geochem data acc(1).xlsx` 
+
+## Manually Choosing factor
+If you want to choose factors for manually you can rewrite the code for the `A` segment assign a last value for your factor score, which regarding to present
+as your values of factors.
