@@ -3,12 +3,7 @@
 %load the data
 %X = csvread("orissa org.csv", 1); %if the heading present
 X = xlsread("Gm data (1).xlsx", 1); %if the heading is present
-% X = csvread("orissa org.csv"); %(without heading)
-%X = xlsread("Orissa geochem data acc (1).xlsx"); %(without Heading)
-c = X(:, 1:10);
-c1 = X(:, 12:15);
-c2 = X(:, 17:22);
-X = [c c1 c2];
+
 %Covarience matrix
 S = cov(X);
 % Eigenvalues and Eigenvectors
