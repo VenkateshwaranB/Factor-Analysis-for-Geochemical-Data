@@ -1,3 +1,4 @@
+![20211226_205723_0000](https://user-images.githubusercontent.com/48711041/147412922-d96c903b-37bd-4c79-b519-c9f378acbc09.png)
 # Factor-Analysis-for-Geochemical-Data
 Mainly focusing on the dominating factors through the entire region and deposits with their Geochemical data, which determined by the factor analysis.
 ## Data Normalization
