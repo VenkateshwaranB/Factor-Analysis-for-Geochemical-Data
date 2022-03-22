@@ -27,3 +27,7 @@ Input the Normalized data in the `X` values. The data looks like our `Orissa geo
 ## Manually Choosing factor
 If you want to choose factors for manually you can rewrite the code for the `A` segment assign a last value for your factor score, which regarding to present
 as your values of factors.
+
+#factor-analysis
+#geochemistry
+#geostatistics
