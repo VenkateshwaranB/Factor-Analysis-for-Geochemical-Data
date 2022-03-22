@@ -1,6 +1,6 @@
 ![IMG_20211226_210634](https://user-images.githubusercontent.com/48711041/147412969-d7f514cb-451c-4d1b-82e8-4cc4e0218e63.png)
 
-# Factor-Analysis-for-Geochemical-Data
+# Factor Analysis for Geochemical Data
 Mainly focusing on the dominating factors through the entire region and deposits with their Geochemical data, which determined by the factor analysis.
 ## Data Normalization
 The most important think for before the analysis, it's called data normalization which encompass the data having equal proportion entirely.
